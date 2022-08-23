@@ -7,6 +7,12 @@ Netflix over the years has become a household names with a huge library of Movie
 - Use of Python to conduct Data Wrangling process of finding the missing data, updating or dropping the data
 - Exported csv data from python to be used as base for Tableau Visualization
 
+# Key Questions Asked
+- Understanding what content is available in different countries
+- Identifying similar content by matching text-based features
+- Netflix's major Target Audience
+- Does Netflix has more focus on TV Shows than movies in recent years.
+
 # Folders within the Repository
 - 01 Project Management - comprises of important images
 - 02 Data - comprises 2 Folders i.e Original Data & Updated Data
